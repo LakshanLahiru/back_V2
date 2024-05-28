@@ -1,0 +1,22 @@
+.container{
+    margin-top: 20px;
+}
+.container h2{
+    color: rgb(11, 11, 121);
+    margin: 10px;
+}
+.container h1{
+    margin: 20px;
+}
+.date{
+    padding: 5px;
+    margin-left: 55px;
+    border-radius: 6px;
+    border-width: 1px;
+}
+.date1{
+    padding: 5px;
+    margin-left: 65px;
+    border-radius: 6px;
+    border-width: 1px;
+}
