@@ -1,0 +1,5 @@
+create database binance;
+use binance;
+create table back_v2(openTime varchar(255),closeTime varchar(255),entryPrice double,closePrice double,decision int ,side varchar(255),profit double,ROI double);
+
+select * from back_v2;
